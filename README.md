@@ -40,10 +40,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ### Deployment
-https://inventory-management-rosy.vercel.app/
+https://post-it-heroku.herokuapp.com/
 
 ## Screenshots
-![inventary](https://github.com/monikaa06/Inventory-asset-management-tool-frontend/assets/148076194/a1cf6c88-ac27-43cb-a50e-6ea5b8d5b320)
+![socialmedia](https://github.com/user-attachments/assets/73319b9a-bf87-4928-b3d2-3908cd1639af)
 
 ## Learn More
 
